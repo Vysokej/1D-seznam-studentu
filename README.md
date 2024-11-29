@@ -2,6 +2,4 @@
 
 ### Na seznamu jsou:
 
-- Zatím asi nikdo
-- Tady možná někdo bude
-- Zzz...
+upravil jsem pres VS
